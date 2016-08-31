@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ss</string>
+	<string>de</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**&lt; &lt;#注释#&gt;*/</string>
+	<string>DEPRECATED_MSG_ATTRIBUTE("&lt; use #描述# instead&gt;")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6B7512DE-81B7-4185-A55A-B8B9C762ED89</string>
+	<string>017CDC59-D413-4276-B769-C46EC304E946</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>属性注释</string>
+	<string>deprecated</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

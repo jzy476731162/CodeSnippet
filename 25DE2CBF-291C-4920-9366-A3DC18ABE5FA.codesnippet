@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ss</string>
+	<string>pf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**&lt; &lt;#注释#&gt;*/</string>
+	<string>#pragma mark - &lt;#分类#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6B7512DE-81B7-4185-A55A-B8B9C762ED89</string>
+	<string>25DE2CBF-291C-4920-9366-A3DC18ABE5FA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>属性注释</string>
+	<string>pragma mark - 一级</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
