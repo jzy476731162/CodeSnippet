@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>strong</string>
+	<string>cs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#TYPE#&gt; *&lt;#strong#&gt;;</string>
+	<string>[NSString stringWithUTF8String:cTask-&gt;&lt;#xxx#&gt;.c_str()]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>700077E6-EB80-48C4-B5A2-565C3BA1F772</string>
+	<string>3C27EA77-B2C4-4053-8D6B-62D8B3A6D8AE</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>strong属性</string>
+	<string>cs</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
